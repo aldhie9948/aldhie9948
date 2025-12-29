@@ -12,6 +12,6 @@ Eksplor SSR, SSG, sama optimasi performa web. Nyoba bikin apps yang load-nya cep
 
 ## Hit Me Up
 
-📫 [Email/LinkedIn/Website Anda]
+📫 [Email](mailto:it.aldigunawan@gmail.com)
 
 Open untuk kolaborasi atau ngobrol soal web dev.
