@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**aldhie9948/aldhie9948** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer yang fokus membangun aplikasi web modern dan performa tinggi.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+- Next.js
+- SvelteKit
+- React
+- Svelte
+
+**Backend**
+- Node.js
+- Express
+- API Development
+
+## Keahlian
+
+- Server-side rendering (SSR)
+- Static site generation (SSG)
+- RESTful API design
+- Database integration
+- Performance optimization
+
+## Sedang Dikerjakan
+
+Membangun aplikasi web yang cepat, scalable, dan user-friendly dengan teknologi terkini.
+
+## Kontak
+
+📫 [Email me!!](it.aldigunawan@gmail.com)
+
+---
+
+💡 Open untuk kolaborasi dan project menarik
