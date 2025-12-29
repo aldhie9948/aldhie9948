@@ -1,36 +1,17 @@
-# Hi there 👋
+# Hey 👋
 
-Full-stack developer yang fokus membangun aplikasi web modern dan performa tinggi.
+Full-stack developer. Suka bikin aplikasi web yang cepat dan enak dipakai.
 
-## Tech Stack
+## Yang Saya Pakai
 
-**Frontend**
-- Next.js
-- SvelteKit
-- React
-- Svelte
+Next.js, SvelteKit, Node.js. Kadang React dan Svelte murni juga.
 
-**Backend**
-- Node.js
-- Express
-- API Development
+## Lagi Ngapain
 
-## Keahlian
+Eksplor SSR, SSG, sama optimasi performa web. Nyoba bikin apps yang load-nya cepet dan UX-nya smooth.
 
-- Server-side rendering (SSR)
-- Static site generation (SSG)
-- RESTful API design
-- Database integration
-- Performance optimization
+## Hit Me Up
 
-## Sedang Dikerjakan
+📫 [Email/LinkedIn/Website Anda]
 
-Membangun aplikasi web yang cepat, scalable, dan user-friendly dengan teknologi terkini.
-
-## Kontak
-
-📫 [Email me!!](it.aldigunawan@gmail.com)
-
----
-
-💡 Open untuk kolaborasi dan project menarik
+Open untuk kolaborasi atau ngobrol soal web dev.
