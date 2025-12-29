@@ -1,17 +1,29 @@
-# Hey 👋
+# 👋 Hi, I'm Aldi
 
-Full-stack developer. Suka bikin aplikasi web yang cepat dan enak dipakai.
+💻 Fullstack developer. Fokus ke web app modern dan backend yang rapi.
 
-## Yang Saya Pakai
+## 🧠 Main Stack
+- ⚛️ **Next.js**  
+  App Router, SSR, API Routes, auth, dashboard.
+- 🧩 **SvelteKit**  
+  SSR, adapter Node, performa tinggi, struktur clean.
+- 🚀 **Express.js**  
+  REST API, streaming, Prisma, auth, real time logic.
+- 🐍 **Python**  
+  Utility script, automation, data processing ringan.
 
-Next.js, SvelteKit, Node.js. Kadang React dan Svelte murni juga.
+## 🛠️ What I Do
+- 🖥️ Frontend production-ready.
+- 🧱 Backend scalable.
+- 🔗 API integration dan sistem internal.
+- ⚡ Real time feature dan streaming.
+- 🗄️ Database design dan relasi kompleks.
 
-## Lagi Ngapain
+## 🧩 Work Style
+- 🎯 Fokus ke logika.
+- ✂️ Minim abstraksi tidak perlu.
+- 📐 Kode jelas dan maintainable.
+- ⚙️ Prioritas performa dan stabilitas.
 
-Eksplor SSR, SSG, sama optimasi performa web. Nyoba bikin apps yang load-nya cepet dan UX-nya smooth.
-
-## Hit Me Up
-
-📫 [Email](mailto:it.aldigunawan@gmail.com)
-
-Open untuk kolaborasi atau ngobrol soal web dev.
+## 📬 Contact
+📌 Gunakan issue atau DM GitHub.
